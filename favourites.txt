@@ -4,3 +4,6 @@ sushi
 eggs
 ham
 toast
+soup
+pies
+pizza
