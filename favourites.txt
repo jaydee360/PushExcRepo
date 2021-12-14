@@ -10,3 +10,5 @@ pizza
 roast chicken
 gyoza
 teriyaki
+chateau brion
+chips
