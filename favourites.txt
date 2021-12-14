@@ -1,3 +1,6 @@
 chicken
 steak
 sushi
+eggs
+ham
+toast
